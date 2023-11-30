@@ -1,0 +1,692 @@
+Protocol,Info,Length,Delta,Result
+Baseband,FHS,28,1.246406,Attack
+Baseband,FHS,28,1.256744,Attack
+Baseband,FHS,28,0.073231,Attack
+Baseband,FHS,28,0.076976,Attack
+Baseband,FHS,28,1.210525,Attack
+Baseband,FHS,28,0.079468,Attack
+Baseband,FHS,28,1.211332,Attack
+Baseband,FHS,28,0.07753,Attack
+Baseband,FHS,28,1.218111,Attack
+HCI H4 Broadcom,LM Received,64,0.01032,Attack
+HCI H4 Broadcom,LM Received,64,0.004944,Attack
+HCI H4 Broadcom,LM Sent,64,8.032934,Attack
+HCI H4 Broadcom,LM Sent,64,2.299231,Attack
+HCI H4 Broadcom,LM Sent,64,5.031704,Attack
+HCI H4 Broadcom,LM Sent,64,0.010186,Attack
+LMP,LMP_accepted,64,0.000965,No Attack
+LMP,LMP_accepted,64,0.001134,No Attack
+LMP,LMP_accepted,14,0.057252,Attack
+LMP,LMP_accepted,64,0.001607,No Attack
+LMP,LMP_accepted,14,0.082319,Attack
+LMP,LMP_accepted,64,0.000848,No Attack
+LMP,LMP_accepted,14,2.00355,Attack
+LMP,LMP_accepted_ext,16,0.000185,Attack
+LMP,LMP_accepted_ext,16,1.907992,Attack
+LMP,LMP_au_rand,29,0.00087,Attack
+LMP,LMP_au_rand,29,0.00058,Attack
+LMP,LMP_au_rand,29,0.000871,Attack
+LMP,LMP_au_rand,29,0.001945,Attack
+LMP,LMP_au_rand,29,0.000299,Attack
+LMP,LMP_au_rand,29,0.001521,Attack
+LMP,LMP_au_rand,29,0.000164,Attack
+LMP,LMP_au_rand,29,0.012988,Attack
+LMP,LMP_au_rand,64,0.001127,No Attack
+LMP,LMP_au_rand,29,0.000149,Attack
+LMP,LMP_au_rand,29,0.139489,Attack
+LMP,LMP_au_rand,29,0.001677,Attack
+LMP,LMP_au_rand,29,0.000854,Attack
+LMP,LMP_au_rand,29,0.00155,Attack
+LMP,LMP_au_rand,29,0.001164,Attack
+LMP,LMP_au_rand,29,0.001263,Attack
+LMP,LMP_au_rand,29,0.00102,Attack
+LMP,LMP_auto_rate,13,0.007522,Attack
+LMP,LMP_auto_rate,13,0.000149,Attack
+LMP,LMP_auto_rate,13,0.000234,Attack
+LMP,LMP_channel_classification,24,0.002782,Attack
+LMP,LMP_channel_classification,24,0.002537,Attack
+LMP,LMP_channel_classification_req,19,0.002004,Attack
+LMP,LMP_channel_classification_req,19,0.00316,Attack
+LMP,LMP_detach,14,0.001107,Attack
+LMP,LMP_detach,14,0.010859,Attack
+LMP,LMP_detach,14,0.000224,Attack
+LMP,LMP_detach,14,0.004455,Attack
+LMP,LMP_detach,14,0.000542,Attack
+LMP,LMP_detach,14,0.000357,Attack
+LMP,LMP_detach,14,0.000407,Attack
+LMP,LMP_features_req,21,0.872195,Attack
+LMP,LMP_features_req,21,0.022649,Attack
+LMP,LMP_features_req,21,0.871822,Attack
+LMP,LMP_features_req,21,0.010424,Attack
+LMP,LMP_features_req,21,0.003866,Attack
+LMP,LMP_features_req,21,0.021156,Attack
+LMP,LMP_features_req,21,0.002721,Attack
+LMP,LMP_features_req,21,0.003016,Attack
+LMP,LMP_features_req,21,8.746215,Attack
+LMP,LMP_features_req,21,8.256662,Attack
+LMP,LMP_features_req,21,0.003103,Attack
+LMP,LMP_features_req_ext,24,0.000248,Attack
+LMP,LMP_features_req_ext,24,0.000241,Attack
+LMP,LMP_features_req_ext,24,0.00477,Attack
+LMP,LMP_features_req_ext,24,0.000307,Attack
+LMP,LMP_features_req_ext,64,0.008741,No Attack
+LMP,LMP_features_req_ext,24,0.000489,Attack
+LMP,LMP_features_req_ext,24,0.000183,Attack
+LMP,LMP_features_req_ext,24,0.000102,Attack
+LMP,LMP_features_req_ext,24,0.000256,Attack
+LMP,LMP_features_req_ext,24,0.000236,Attack
+LMP,LMP_features_req_ext,24,0.000831,Attack
+LMP,LMP_features_req_ext,24,0.000333,Attack
+LMP,LMP_features_req_ext,24,2.00098,Attack
+LMP,LMP_features_req_ext,24,0.000227,Attack
+LMP,LMP_features_req_ext,24,0.000238,Attack
+LMP,LMP_features_req_ext,24,0.000227,Attack
+LMP,LMP_features_req_ext,24,0.000235,Attack
+LMP,LMP_features_req_ext,24,9.3e-05,Attack
+LMP,LMP_features_req_ext,24,0.000436,Attack
+LMP,LMP_features_req_ext,24,0.000291,Attack
+LMP,LMP_features_req_ext,24,0.000159,Attack
+LMP,LMP_features_req_ext,24,0.000195,Attack
+LMP,LMP_features_req_ext,24,0.000174,Attack
+LMP,LMP_features_res,21,0.000453,Attack
+LMP,LMP_features_res,21,0.055864,Attack
+LMP,LMP_features_res,21,0.000707,Attack
+LMP,LMP_features_res,21,0.035069,Attack
+LMP,LMP_features_res,21,0.000368,Attack
+LMP,LMP_features_res,21,0.060441,Attack
+LMP,LMP_features_res,21,0.010175,Attack
+LMP,LMP_features_res,21,0.003041,Attack
+LMP,LMP_features_res,21,0.009664,Attack
+LMP,LMP_features_res,21,0.001787,Attack
+LMP,LMP_features_res,21,0.001095,Attack
+LMP,LMP_features_res,21,0.001834,Attack
+LMP,LMP_features_res,21,0.00114,Attack
+LMP,LMP_features_res,21,0.001359,Attack
+LMP,LMP_features_res,21,0.061717,Attack
+LMP,LMP_features_res,21,0.061259,Attack
+LMP,LMP_features_res,21,0.065661,Attack
+LMP,LMP_features_res,21,0.001127,Attack
+LMP,LMP_features_res,21,0.000269,Attack
+LMP,LMP_features_res,21,0.000128,Attack
+LMP,LMP_features_res_ext,24,0.033129,Attack
+LMP,LMP_features_res_ext,24,0.00583,Attack
+LMP,LMP_features_res_ext,24,0.028417,Attack
+LMP,LMP_features_res_ext,24,0.004817,Attack
+LMP,LMP_features_res_ext,24,0.002351,Attack
+LMP,LMP_features_res_ext,24,0.006188,Attack
+LMP,LMP_features_res_ext,24,0.007834,Attack
+LMP,LMP_features_res_ext,24,0.005591,Attack
+LMP,LMP_features_res_ext,24,0.022564,Attack
+LMP,LMP_features_res_ext,24,0.027595,Attack
+LMP,LMP_features_res_ext,24,0.005823,Attack
+LMP,LMP_features_res_ext,24,0.004069,Attack
+LMP,LMP_features_res_ext,24,0.005773,Attack
+LMP,LMP_features_res_ext,24,0.032202,Attack
+LMP,LMP_host_connection_req,13,1.497177,Attack
+LMP,LMP_host_connection_req,13,0.001841,Attack
+LMP,LMP_host_connection_req,13,0.000398,Attack
+LMP,LMP_host_connection_req,13,0.000281,Attack
+LMP,LMP_host_connection_req,13,0.002477,Attack
+LMP,LMP_host_connection_req,13,1.45297,Attack
+LMP,LMP_host_connection_req,13,0.000489,Attack
+LMP,LMP_host_connection_req,13,0.000422,Attack
+LMP,LMP_host_connection_req,13,0.000186,Attack
+LMP,LMP_max_slot,14,0.000322,Attack
+LMP,LMP_max_slot,14,0.002465,Attack
+LMP,LMP_max_slot,14,0.000509,Attack
+LMP,LMP_max_slot_req,14,0.004451,Attack
+LMP,LMP_max_slot_req,14,0.001355,Attack
+LMP,LMP_not_accepted,15,0.025507,Attack
+LMP,LMP_not_accepted,15,0.003145,Attack
+LMP,LMP_not_accepted,15,0.025705,Attack
+LMP,LMP_not_accepted,15,0.032583,Attack
+LMP,LMP_not_accepted,15,0.000195,Attack
+LMP,LMP_not_accepted,15,0.002531,Attack
+LMP,LMP_not_accepted,15,0.00652,Attack
+LMP,LMP_not_accepted_ext,17,0.001152,Attack
+LMP,LMP_not_accepted_ext,17,0.002528,Attack
+LMP,LMP_not_accepted_ext,17,0.00083,Attack
+LMP,LMP_packet_type_table_req,15,0.002564,Attack
+LMP,LMP_packet_type_table_req,15,0.004487,Attack
+LMP,LMP_packet_type_table_req,15,0.001811,Attack
+LMP,LMP_power_control_req,64,0.007086,No Attack
+LMP,LMP_power_control_req,64,0.001516,No Attack
+LMP,LMP_power_control_req,64,0.000549,No Attack
+LMP,LMP_power_control_req,64,0.016589,No Attack
+LMP,LMP_power_control_res,64,0.006655,No Attack
+LMP,LMP_power_control_res,64,0.001106,No Attack
+LMP,LMP_power_control_res,64,0.000952,No Attack
+LMP,LMP_set_AFH,28,0.002262,Attack
+LMP,LMP_set_AFH,64,0.244372,No Attack
+LMP,LMP_set_AFH,64,0.935667,No Attack
+LMP,LMP_setup_complete,13,0.004085,Attack
+LMP,LMP_setup_complete,13,0.003417,Attack
+LMP,LMP_setup_complete,13,0.000229,Attack
+LMP,LMP_setup_complete,13,0.002171,Attack
+LMP,LMP_timing_accuracy_req,13,0.001731,Attack
+LMP,LMP_timing_accuracy_req,13,0.003882,Attack
+LMP,LMP_timing_accuracy_req,13,0.000211,Attack
+LMP,LMP_timing_accuracy_req,13,0.000209,Attack
+LMP,LMP_timing_accuracy_req,13,0.000258,Attack
+LMP,LMP_timing_accuracy_req,64,0.000523,No Attack
+LMP,LMP_timing_accuracy_req,13,0.000324,Attack
+LMP,LMP_timing_accuracy_req,13,0.000254,Attack
+LMP,LMP_timing_accuracy_res,15,0.000287,Attack
+LMP,LMP_timing_accuracy_res,15,0.026763,Attack
+LMP,LMP_timing_accuracy_res,15,0.005829,Attack
+LMP,LMP_timing_accuracy_res,15,0.005218,Attack
+LMP,LMP_timing_accuracy_res,15,0.006679,Attack
+LMP,LMP_timing_accuracy_res,15,0.03253,Attack
+LMP,LMP_timing_accuracy_res,15,0.000209,Attack
+LMP,LMP_timing_accuracy_res,15,0.000484,Attack
+LMP,LMP_version_req,18,0.000189,Attack
+LMP,LMP_version_req,18,0.00052,Attack
+LMP,LMP_version_req,18,0.000263,Attack
+LMP,LMP_version_req,18,0.000274,Attack
+LMP,LMP_version_req,18,0.000212,Attack
+LMP,LMP_version_req,18,0.000221,Attack
+LMP,LMP_version_req,18,0.000388,Attack
+LMP,LMP_version_res,18,0.006455,Attack
+LMP,LMP_version_res,18,0.005885,Attack
+LMP,LMP_version_res,18,0.008124,Attack
+LMP,LMP_version_res,18,0.006688,Attack
+LMP,LMP_version_res,18,0.006711,Attack
+LMP,LMP_version_res,18,0.005921,Attack
+LMP,LMP_version_res,18,0.058368,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.000549,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.000534,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001754,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001841,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.00182,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001914,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.000756,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001463,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.0018,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.00108,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001492,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001802,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.001885,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.002049,Attack
+HCI_EVT,Rcvd Command Complete (Link Key Request Negative Reply),13,0.006037,Attack
+HCI_EVT,Rcvd Command Complete (Write Link Policy Settings),9,0.00089,Attack
+HCI_EVT,Rcvd Command Complete (Write Link Policy Settings),9,0.000497,Attack
+HCI_EVT,Rcvd Command Complete (Write Link Policy Settings),9,0.001061,Attack
+HCI_EVT,Rcvd Command Complete (Write Scan Enable),7,0.003713,Attack
+HCI_EVT,Rcvd Command Complete (Write Scan Enable),7,0.0024,Attack
+HCI_EVT,Rcvd Command Status (Accept Connection Request),7,0.001806,Attack
+HCI_EVT,Rcvd Command Status (Accept Connection Request),7,0.012523,Attack
+HCI_EVT,Rcvd Command Status (Accept Connection Request),7,0.015807,Attack
+HCI_EVT,Rcvd Command Status (Accept Connection Request),7,0.012884,Attack
+HCI_EVT,Rcvd Command Status (Change Connection Packet Type),7,0.014542,Attack
+HCI_EVT,Rcvd Command Status (Change Connection Packet Type),7,0.000504,Attack
+HCI_EVT,Rcvd Command Status (Read Clock offset),7,0.000502,Attack
+HCI_EVT,Rcvd Command Status (Read Clock offset),7,0.000748,Attack
+HCI_EVT,Rcvd Command Status (Read Remote Extended Features),7,0.000847,Attack
+HCI_EVT,Rcvd Command Status (Read Remote Extended Features),7,0.001035,Attack
+HCI_EVT,Rcvd Command Status (Read Remote Version Information),7,0.000516,Attack
+HCI_EVT,Rcvd Command Status (Read Remote Version Information),7,0.00075,Attack
+HCI_EVT,Rcvd Connect Complete,14,0.000846,Attack
+HCI_EVT,Rcvd Connect Complete,14,0.010161,Attack
+HCI_EVT,Rcvd Connect Complete,14,0.056478,Attack
+HCI_EVT,Rcvd Connect Complete,14,0.058214,Attack
+HCI_EVT,Rcvd Connect Request,13,0.000509,Attack
+HCI_EVT,Rcvd Connect Request,13,0.005567,Attack
+HCI_EVT,Rcvd Connect Request,13,0.004928,Attack
+HCI_EVT,Rcvd Connect Request,13,0.004267,Attack
+HCI_EVT,Rcvd Disconnect Complete,7,0.005097,Attack
+HCI_EVT,Rcvd Disconnect Complete,7,0.004693,Attack
+HCI_EVT,Rcvd LE Meta (LE Advertising Report),44,0.349287,No Attack
+HCI_EVT,Rcvd LE Meta (LE Advertising Report),44,1.057265,No Attack
+HCI_EVT,Rcvd Link Key Request,9,0.030996,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000628,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000522,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.002708,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000577,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.001081,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.001594,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000639,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.001142,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000558,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000579,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000542,Attack
+HCI_EVT,Rcvd Link Key Request,9,0.000554,Attack
+HCI_EVT,Rcvd Max Slots Change,6,0.000559,Attack
+HCI_EVT,Rcvd Max Slots Change,6,0.000485,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.027688,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000913,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.002271,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.00053,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001585,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.016513,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000949,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001111,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.002399,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.017733,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000829,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.00099,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.003593,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.005159,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.004062,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000997,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.01148,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000583,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000976,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.013834,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001236,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001011,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000792,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.004644,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.005022,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.050348,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.002981,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001041,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.012095,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.004015,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.00056,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001173,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001192,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000611,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001888,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000841,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001564,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000939,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001794,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001213,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.0038,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.001026,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000962,Attack
+HCI_EVT,Rcvd Number of Completed Packets,8,0.000889,Attack
+OBEX,Rcvd OBEX fragment,1004,0.003436,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001295,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.032811,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003147,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004853,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001794,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002371,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001832,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005654,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000866,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001077,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00153,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001143,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003316,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001466,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.079072,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001255,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005011,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003511,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002398,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.028761,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003673,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001424,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00482,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006064,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002123,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001279,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001927,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004072,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001533,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001867,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004729,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00283,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001195,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004524,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002082,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001656,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002569,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003671,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006126,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002395,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001544,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001591,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00258,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006921,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002434,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007362,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003549,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000939,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001104,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00141,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001473,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003831,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007753,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00749,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001594,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002895,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003181,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.041114,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008803,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.016249,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002602,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003715,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004051,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004059,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007873,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000884,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001023,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003722,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003766,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003852,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000987,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001257,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003805,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00102,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004106,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005878,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.011092,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003647,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001053,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001546,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003444,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000845,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.011122,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002976,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002004,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008747,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003279,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003754,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001405,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008377,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004107,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003915,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002897,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002873,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003781,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00183,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004031,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004011,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003371,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004487,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005095,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000876,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003344,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003004,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003112,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002937,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001372,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.04605,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.012541,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000895,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001043,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001373,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002266,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001845,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002464,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002876,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006107,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002039,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002769,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002083,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000893,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003737,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001706,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003897,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001208,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003141,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002286,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003249,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003808,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007492,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001768,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003413,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000805,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004185,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001233,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002373,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002737,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.012305,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003366,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004385,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002404,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.009954,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00306,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007843,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003783,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.010015,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002532,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.049844,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00123,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006861,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00484,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.032069,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002972,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.02874,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001032,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000736,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003073,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000846,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002476,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002144,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003137,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002202,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00493,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003561,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001024,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008787,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.026274,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002836,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001109,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004973,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001837,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002009,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003603,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002491,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003623,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.04646,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002431,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.009913,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001515,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002355,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.028769,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002794,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007679,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003131,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00206,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001527,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.011918,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003526,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003727,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008801,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001159,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002531,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002734,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002894,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002555,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007483,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001035,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.031237,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002607,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002609,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003507,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003891,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003585,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004005,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003745,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001803,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007686,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003125,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001019,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.012786,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006515,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002654,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007901,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001428,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005609,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001579,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002442,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003287,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004336,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003883,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004391,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.028746,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002456,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001847,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001442,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001082,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.0024,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002369,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002814,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000807,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00288,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.007502,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.010023,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002538,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002457,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.008163,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004983,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004364,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000494,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.00874,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004195,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002702,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001072,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001635,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001334,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000988,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001396,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006258,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003868,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.006305,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.009973,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002698,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002901,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003431,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001108,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003735,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.0027,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001359,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.003853,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.005014,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004296,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004189,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001349,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004089,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.001307,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004904,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000842,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.000572,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.011273,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.004799,No Attack
+OBEX,Rcvd OBEX fragment,1004,0.002075,No Attack
+OBEX,Rcvd Put continue,106,0.001487,No Attack
+OBEX,Rcvd Put continue,106,0.001102,No Attack
+OBEX,Rcvd Put continue,104,0.001581,No Attack
+OBEX,Rcvd Put continue,106,0.003302,No Attack
+OBEX,Rcvd Put continue,104,0.000588,No Attack
+OBEX,Rcvd Put continue,106,0.002122,No Attack
+OBEX,Rcvd Put continue,104,0.001927,No Attack
+HCI_EVT,Rcvd Read Clock Offset Complete,8,0.000789,Attack
+HCI_EVT,Rcvd Read Clock Offset Complete,8,0.000551,Attack
+HCI_EVT,Rcvd Read Remote Extended Features Complete,16,0.00057,Attack
+HCI_EVT,Rcvd Read Remote Extended Features Complete,16,0.000585,Attack
+HCI_EVT,Rcvd Read Remote Version Information Complete,11,0.000551,Attack
+HCI_EVT,Rcvd Read Remote Version Information Complete,11,0.000609,Attack
+HCI_CMD,Sent Accept Connection Request,11,0.002165,Attack
+HCI_CMD,Sent Accept Connection Request,11,0.006904,Attack
+HCI_CMD,Sent Accept Connection Request,11,0.01597,Attack
+HCI_CMD,Sent Accept Connection Request,11,0.00863,Attack
+HCI_CMD,Sent Change Connection Packet Type,8,0.001143,Attack
+HCI_CMD,Sent Change Connection Packet Type,8,0.000503,Attack
+OBEX,Sent Continue,21,0.022342,No Attack
+OBEX,Sent Continue,21,0.019993,No Attack
+OBEX,Sent Continue,21,0.013242,No Attack
+OBEX,Sent Continue,21,0.012631,No Attack
+OBEX,Sent Continue,21,0.017135,No Attack
+OBEX,Sent Continue,21,0.019131,No Attack
+OBEX,Sent Continue,21,0.015619,No Attack
+L2CAP,Sent Information Request (Extended Features Mask),15,0.00195,Attack
+L2CAP,Sent Information Request (Extended Features Mask),15,0.002075,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.00298,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002481,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.003138,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.005496,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002672,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.003954,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.003079,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002809,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002929,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.011543,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002725,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002718,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.003023,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.003081,Attack
+HCI_CMD,Sent Link Key Request Negative Reply,10,0.002693,Attack
+HCI_CMD,Sent Read Clock offset,6,0.003292,Attack
+HCI_CMD,Sent Read Clock offset,6,0.003888,Attack
+HCI_CMD,Sent Read Remote Extended Features,7,0.000511,Attack
+HCI_CMD,Sent Read Remote Extended Features,7,0.000512,Attack
+HCI_CMD,Sent Read Remote Version Information,6,0.000772,Attack
+HCI_CMD,Sent Read Remote Version Information,6,0.000508,Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006255,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004697,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004678,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003123,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004918,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004194,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004157,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008009,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006977,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.012357,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003002,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008223,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008152,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005771,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.00406,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.00341,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004689,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004297,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004428,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.011387,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005604,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004028,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004599,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004763,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.007037,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004503,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004344,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004222,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003403,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008887,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003029,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005833,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008687,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003071,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.00295,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006071,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003821,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005662,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003423,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.003574,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005622,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004789,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.011038,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008654,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004693,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006728,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.00426,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006986,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005902,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.008676,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.007067,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005024,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.002928,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005664,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.014613,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004307,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004422,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.005791,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.002926,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.001095,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.011254,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004725,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.007461,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004628,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.004705,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.002891,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.007302,No Attack
+RFCOMM,Sent UIH Channel=12 UID ,14,0.006478,No Attack
+HCI_CMD,Sent Write Link Policy Settings,8,0.000478,Attack
+HCI_CMD,Sent Write Link Policy Settings,8,0.00046,Attack
+HCI_CMD,Sent Write Link Policy Settings,8,0.00049,Attack
+HCI_CMD,Sent Write Scan Enable,5,0.0,Attack
+HCI_CMD,Sent Write Scan Enable,5,0.048534,Attack
