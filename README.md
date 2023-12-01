@@ -1,4 +1,4 @@
-# BrakToothAttack_Analysis
+# BrakToothAttack Analysis
 
 ## Overview
 This is a deep analysis on BrakTooth Attacks, were we clean our data in order to evaluate an interested set of values that we want to know if there is an attack or not.
@@ -25,8 +25,10 @@ To get the values we were interested, we evaluated different models that would f
 <img width="491" alt="Captura de pantalla 2023-12-01 a la(s) 8 51 53" src="https://github.com/Lydiadel/BrakToothAttack_Analysis/assets/71950779/bac25a5a-3f09-41dc-9e34-6914221bac63">
 
 ## Conclusion
-<img width="664" alt="Captura de pantalla 2023-12-01 a la(s) 8 38 32" src="https://github.com/Lydiadel/BrakToothAttack_Analysis/assets/71950779/65cf5766-2692-42fc-9d7d-b25639e83ef4">
 
 The model selected to get our predictions from our dataset we wanted was the **Random Forest Model Classifier**, this was the one that had the less computation time, best results in the confusion matrix and the best accuracy of them. Once we predict our values we save them in a csv and as well we display it in the notebook.
+<br>
+<img width="664" alt="Captura de pantalla 2023-12-01 a la(s) 8 38 32" src="https://github.com/Lydiadel/BrakToothAttack_Analysis/assets/71950779/65cf5766-2692-42fc-9d7d-b25639e83ef4">
+
 <br>
 <img width="464" alt="Captura de pantalla 2023-12-01 a la(s) 9 36 34" src="https://github.com/Lydiadel/BrakToothAttack_Analysis/assets/71950779/d3c808ef-0ffd-462e-8ba2-3c723ee5f9f5">
